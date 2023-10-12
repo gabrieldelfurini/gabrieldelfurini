@@ -1,4 +1,4 @@
-### Olá! Eu sou o Gabriel Furini 🖐️
+## Oi!! Eu sou o Gabriel Furini 🖐️
 - 🔭 Hoje estou cursando Análise e Desenvolvimento de Sistemas
 - ✨ Principais linguagens: HTML5, CSS3, JavaScript 
 
