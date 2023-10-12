@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Gabriel Furini 🖐️
 - 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas no Biopark (Parque Tecnológico em Toledo, Paraná)
-- 🚀Estou estudando, além do conteudo da faculdade, cursos para melhorar minhas habilidades principalmente em tecnologias front-end
-- ✨ A cada dia buscando ser um programador melhor 
+- 🚀Estou estudando, além do conteúdo da faculdade, cursos para melhorar minhas habilidades, principalmente em tecnologias front-end
+- ✨ A cada dia buscando ser um programador melhor!!
 
 ![Gabriel Furini GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieldelfurini&show_icons=true&theme=tokyonight)
 
