@@ -1,6 +1,7 @@
-## Oi!! Eu sou o Gabriel Furini 🖐️
-- 🔭 Hoje estou cursando Análise e Desenvolvimento de Sistemas
-- ✨ Principais linguagens: HTML5, CSS3, JavaScript 
+## Olá! Eu sou o Gabriel Furini 🖐️
+- 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas no Biopark (Parque Tecnológico em Toledo, Paraná)
+- 🚀Estou estudando, além do conteudo da faculdade, cursos para melhorar minhas habilidades principalmente em tecnologias front-end
+- ✨ A cada dia buscando ser um programador melhor 
 
 ![Gabriel Furini GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieldelfurini&show_icons=true&theme=tokyonight)
 
